@@ -1,0 +1,19 @@
+.grey {
+    background-color: grey;
+}
+
+.lightgrey {
+    background-color: lightgrey;
+}
+
+.blue__border {
+    border: 2px solid blue;
+}
+
+.green__border {
+    border: 2px solid green;
+}
+
+.yellow {
+    background-color: yellow;
+}
